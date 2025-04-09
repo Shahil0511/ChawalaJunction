@@ -119,7 +119,7 @@ const Footer: React.FC = () => {
 
                         </div>
                         <div className="mt-4 flex justify-center">
-                            <img src="/logo.png" alt="Chawala's Tandoori" className="w-1/2 sm:w-1/3 lg:w-48" />
+                            <img src="/logo.png" alt="Chawala&apos;s Tandoori" className="w-1/2 sm:w-1/3 lg:w-48" />
                         </div>
                     </div>
 
@@ -134,7 +134,7 @@ const Footer: React.FC = () => {
                     <p className="text-sm text-gray-400 sm:ml-6 sm:mt-0 mt-4">
                         © {new Date().getFullYear()}  —
                         <a href="#" className="text-gray-400 ml-1" target="_blank" rel="noopener noreferrer">
-                            @CHAWALA'S TANDOORI
+                            @CHAWALA&apos;s TANDOORI
                         </a>
                     </p>
                     <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">

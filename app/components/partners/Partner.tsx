@@ -50,7 +50,7 @@ const Partner = () => {
                 animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: -30 }}
                 transition={spring}
             >
-                THE CHAWALA'S TANDOORI JUNCTION
+                THE CHAWALA&apos;s TANDOORI JUNCTION
             </motion.div>
 
             {/* Animated Subtitle */}
