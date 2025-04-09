@@ -65,7 +65,7 @@ const Hero = () => {
                 transition={{ duration: 1, ease: 'easeOut' }}
             >
                 <h1 className="text-4xl md:text-5xl font-extrabold mb-4 tracking-tight text-gray-800">
-                    The Chawla's Tandoori Junction
+                    The Chawla&apos;s Tandoori Junction
                 </h1>
                 <h2 className="text-xl md:text-3xl text-gray-400 mb-4">
                     Experience the finest dining

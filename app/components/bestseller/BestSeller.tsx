@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React,  from "react";
 
 const BestSeller = () => {
     // Best Sellers Data
@@ -22,7 +22,7 @@ const BestSeller = () => {
             <div className="text-center">
                 <h1 className="text-3xl sm:text-4xl font-extrabold text-gray-800">Best Seller</h1>
                 <hr className="border-t-2 border-gray-300 my-4 mx-auto w-1/3" />
-                <h2 className="text-xl sm:text-2xl font-semibold text-gray-600">The Chawala's Tandoori Junction</h2>
+                <h2 className="text-xl sm:text-2xl font-semibold text-gray-600">The Chawala&apos;s Tandoori Junction</h2>
             </div>
 
             {/* Grid Layout for Items */}

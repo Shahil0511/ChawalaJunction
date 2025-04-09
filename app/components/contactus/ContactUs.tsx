@@ -25,7 +25,7 @@ const ContactUs = () => {
                         Feedback
                     </h2>
                     <p className="leading-relaxed mb-5 text-gray-600">
-                        We'd love to hear from you. Please share your thoughts!
+                        We&apos;d love to hear from you. Please share your thoughts!
                     </p>
 
                     {/* Email Input */}
